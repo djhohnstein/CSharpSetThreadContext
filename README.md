@@ -1,3 +1,7 @@
+# Disclaimer
+
+The code provided is "as is" and will not be supported.
+
 # CSharp SetThreadContext Shellcode Runner Example
 
 This project is a C# port of the work @xpn did in his blog post here:
